@@ -27,6 +27,4 @@ This list is useful in a variety of security testing scenarios, including:
 
 Contributions to improve this list are welcome. If you have additional commonly-used passwords or improvements, feel free to submit a pull request.
 
-## License
 
-This repository is provided under the MIT License. See [LICENSE](LICENSE) for more details.
